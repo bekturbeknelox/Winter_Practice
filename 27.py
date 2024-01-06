@@ -4,3 +4,4 @@ class Solution:
             nums.remove(val)
         k = len(nums)
         return k
+        
